@@ -1,27 +1,14 @@
-
-
-inCludeScript("common.js-IhW")
-inCludeScript("jquery-1.7.2")
-inCludeScript("pace.js")
-inCludeScript("week_nav.js")
-inCludeScript("jquery.fullpage.min.js")
-inCludeScript("scoll.js")
-inCludeScript("addons.js")
-inCludeScript("case.js")
-inCludeScript("tab.lib.js")
-inCludeScript("ping.js-v=1IhW")
-inCludeScript("banner.js")
-inCludeScript("discuz_tips.js-v=1")
+inCludeScript('../public/javascripts/jquery.min.js')
 
 
 
 
-
-
-
-
-
-
+inCludeScript('../public/javascripts/plugin.js')
+inCludeScript('../public/javascripts/page.js')
+inCludeScript('../public/javascripts/jquery.nicescroll.min.js')
+inCludeScript('../public/javascripts/index.js')
+inCludeScript('../public/javascripts/about.js')
+inCludeScript('../public/javascripts/product.js')
 
 
 

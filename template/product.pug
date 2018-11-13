@@ -1,0 +1,94 @@
+extends layout
+
+block content
+	include lib/header
+	.pusher.content
+		.pusher-black
+		.pbanner
+			.pageT
+			.pagenavBox
+				.pageNav
+		.pageT 产品中心
+		.pagenavBox
+			.pageNav
+				p.cpnav
+					span.name 产品中心
+					span.caret
+				p.pnavbox.clearfix
+					a(href='javascript:;')
+						| 萃取剂
+						span.bot
+					a(href='javascript:;')
+						| 医药中间体
+						span.bot
+					a(href='javascript:;')
+						| 选矿药剂
+						span.bot
+		dl.productDL
+			dd
+				.inner.item.clearfix
+					.img
+						a(href='javascript:;')
+							img(src='/public/images/home/20161227183800785.jpg')
+					.con
+						p.t
+							a(href='javascript:;') 萃取剂
+						.c
+							| 产品分类描述产品分类描述产品分类描述产品分类描述产品分类描述
+						.clearfix.bot
+							a(href='javascript:;') P507萃取剂
+							a(href='javascript:;') P508萃取剂
+							a(href='javascript:;') TBP萃取剂
+						a.more(href='/')
+							span.i2
+							span.i3
+							span.i1 查看更多
+			dd
+				.inner.item.clearfix
+					.img
+						a(href='javascript:;')
+							img(src='/public/images/home/20161227183815642.jpg')
+					.con
+						p.t
+							a(href='javascript:;') 医药中间体
+						.c
+						.clearfix.bot
+							a(href='javascript:;') 盐酸羟胺
+							a(href='javascript:;') 硫酸羟胺
+							a(href='javascript:;') 丁酮肟
+							a(href='/') 丙酮肟
+							a(href='javascript:;') 甲氧基胺盐酸盐
+							a(href='javascript:;') 卞氧基胺盐酸盐
+						a.more(href='/')
+							span.i2
+							span.i3
+							span.i1 查看更多
+			dd
+				.inner.item.clearfix
+					.img
+						a(href='javascript:;')
+							img(src='/public/images/home/20161227183824771.jpg')
+					.con
+						p.t
+							a(href='javascript:;') 选矿药剂
+						.c
+						.clearfix.bot
+							a(href='javascript:;') 稀土捕收剂
+							a(href='javascript:;') 锡矿捕收剂
+							a(href='javascript:;') 萤石捕收剂
+							a(href='javascript:;') 重晶石捕收剂
+							a(href='javascript:;') 萤石浮选抑制剂
+						a.more(href='javascript:;')
+							span.i2
+							span.i3
+							span.i1 查看更多
+block script
+	script.
+		$(function(){
+			$(".act").removeClass("act");
+			$(".product").addClass("act");
+			$(".arrow").css("left","1366px");
+			$(".arrow").css("width","88px");
+			
+				
+			});

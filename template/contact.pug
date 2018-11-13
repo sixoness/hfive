@@ -1,0 +1,68 @@
+extends layout
+
+block content
+	include lib/header
+	.pusher.content
+		.pusher-black
+		.mtop
+		.mapBox
+			.mapshow
+				style(type='text/css').
+					#andamap{width:100%;height:550px;font-family:"微软雅黑";border: 1px solid #ccc;}
+					.andamap-c{line-height: 20px;font-size: 13px;}
+					#andamap h4{font-size: 20px;}
+				script(type='text/javascript', src='../../api.map.baidu.com/api-v=2.0&ak=r6Hee5jECr8YRriARG4XV7UB', tppabs='http://api.map.baidu.com/api?v=2.0&ak=r6Hee5jECr8YRriARG4XV7UB')
+				#andamap
+				script(type='text/javascript').
+					var sContent =
+					"<h4 style='margin:0 0 5px 0;padding:0.2em 0'></h4>" +
+					"<div class='andamap-c'>总部地址：内蒙古包头市土默特右旗海子乡山格架化工园区<br>销售经理：13847280673（韩强） 主要负责产品：氧化矿选矿药剂、非金属矿选矿药剂、选择性抑制剂、高效起泡剂<br>销售经理：15148227369（吴银）  主要负责产品P507萃取剂、P508（草酸分子萃取）、TBP（磷酸三丁酯）、盐酸羟胺、医药中间体、农药中间体<br>公司传真：0472-3128678<br>官方微信平台：包头市蒙荣精细材料有限责任公司</div>";
+					var map = new BMap.Map("andamap");
+					var point = new BMap.Point(110.661224,40.508312);
+					var marker = new BMap.Marker(point);
+					var infoWindow = new BMap.InfoWindow(sContent);  // 创建信息窗口对象
+					map.centerAndZoom(new BMap.Point(110.661224, 40.518012), 14);
+					map.addOverlay(marker);
+					marker.openInfoWindow(infoWindow);
+		.contactList
+			ul.inner.clearfix.iContactList
+				li
+					img.ico(src='/public/images/home/i1.png', tppabs='http://host14.lisiqi.com.cn/template/home/images/i1.png')
+					p.name
+						| 165379041@qq.com
+				li
+					img.ico(src='/public/images/home/i2.png', tppabs='http://host14.lisiqi.com.cn/template/home/images/i2.png')
+					p.name
+						| 内蒙古包头市土默特右旗海子乡山格架化工园区
+				li
+					img.ico(src='/public/images/home/i3.png', tppabs='http://host14.lisiqi.com.cn/template/home/images/i3.png')
+					p.name
+						| 0472-7903677
+		#messagePage.messagePage(style='background-image: url(/template/home/images/contactbg.jpg);')
+			span.black
+			.w960
+				p.iboxT
+					| 在线留言
+				.ts
+					| 欢迎访包头市蒙荣精细材料有限责任公司官方网站！如您有任何疑问或建议，请通过以下方式与我们联系或者拨打0472-7903677或者您可以在线提交咨询表单，我们将尽快与您取得联系。
+				dl.formbox
+					dd.clearfix
+						input#names.ctxt.ctxt1(type='text', placeholder='您的姓名')
+						input#tels.ctxt.ctxt2(type='text', placeholder='您的电话')
+					dd
+						textarea#contetns.ctxt.ctxt3(placeholder='想说的话')
+					dd.btnBox
+						a#submit.more.more2(href='javascript:;')
+							span.i2
+							span.i3
+							span.i1 确定提交
+block script
+	script.
+		$(function(){
+			$(".act").removeClass("act");
+			$(".contact").addClass("act");
+			$(".arrow").css("left","1684px");
+			$(".arrow").css("width","88px");
+			
+				
+			});

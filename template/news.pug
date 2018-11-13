@@ -1,0 +1,56 @@
+extends layout
+
+block content
+	include lib/header
+	.pusher.content
+		.pusher-black
+		.pbanner
+			.pageT
+			.pagenavBox
+				.pageNav
+		.pageT 新闻中心
+		.pagenavBox
+			.pageNav
+		.new_list
+			ul
+				li
+					a.newsimga(href='news_3.html', title='发展目标')
+						img(src='/public/images/home/20161224190147694.jpg', alt='发展目标')
+					.wid460px
+						p.tited
+							a(href='news_3.html', title='发展目标') 发展目标
+						p.newscon
+							| 依靠科学求发展，始终为客户提供满意的产品，是我们始终不变的追求。公司本着勇于拼搏、敢于创新、脚踏实地的原则，秉承“质量好、价格低、服务优”的经营理念，竭诚为广大用户提供性价比最高的产品和优质完善的技术服务。面向未来，把蒙荣精细建设成具有世界领先水平的国内萃取剂、选矿药剂生产的一流企业。
+						p.data 2016年12月24日
+					.clear
+				li
+					a.newsimga(href='news_2.html', title='公司简介')
+						img(src='/public/images/home/nopic.jpg',  alt='公司简介')
+					.wid460px
+						p.tited
+							a(href='news_2.html', title='公司简介') 公司简介
+						p.newscon
+							| 萃取剂生产线主要以P507（有色金属萃取剂）、P508（草酸分子萃取）、TBP（磷酸三丁酯）为主，产品生产稳定、质量上佳，和国内外大型稀土冶分企业达成长期供销关系。是国内最大的P507萃取剂生产供应商。盐酸羟胺生产线采用国内新型的丁酮肟生产专利技术，该技术达到世界领先水平；丁酮、丙酮循环使用后，羟胺盐酸盐生产的原子经济性为79.4%。盐酸羟胺作为一种重要化工原料，在医药、农药方面有着广阔的应用市..
+						p.data 2016年12月24日
+					.clear
+				li
+					a.newsimga(href='news_1.html' title='应用领域及市场分析')
+						img(src='/public/images/home/20161224185131623.jpg',  alt='应用领域及市场分析')
+					.wid460px
+						p.tited
+							a(href='news_1.html' title='应用领域及市场分析') 应用领域及市场分析
+						p.newscon
+							| 萃取剂主要在有色金属湿法冶金行业应用广泛，比如铜、锌、钴镍、镉、金银、铂系金属、稀土等行业。萃取（Extraction）指利用化合物在两种互不相溶（或微溶）的溶剂中溶解度或分配系数的不同，使化合物从一种溶剂内转移到另外一种溶剂中。经过反复多次萃取，将绝大部分的化合物提取出来的方法。是利用系统中组分在溶剂中有不同的溶解度来分离混合物的单元操作的主要原料。公司自主研发的P508萃取剂在草酸废水中，萃..
+						p.data 2016年12月24日
+					.clear
+			.paging
+block script
+	script.
+		$(function(){
+			$(".act").removeClass("act");
+			$(".news").addClass("act");
+			$(".arrow").css("left","1578px");
+			$(".arrow").css("width","88px");
+			
+				
+			});
