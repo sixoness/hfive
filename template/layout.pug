@@ -1,0 +1,33 @@
+doctype html
+html
+	head
+		- let layout = { header: true, footer: true }
+		meta(name='keywords', content=keywords || site.keywords)
+		meta(name='description', content=description || site.description)
+
+		meta(name='viewport', content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no')
+		meta(name='renderer', content='webkit')
+
+
+		link(rel='stylesheet', href='/public/stylesheets/style.css')
+		link(rel='shortcut icon', href='/public/images/favicon.ico')
+
+
+		if site
+			!= site.code.header
+
+	body
+
+
+		block content
+
+
+		include lib/footer
+		//- Script(src='/public/javascripts/public.js')
+
+	
+	
+
+
+
+	block script

@@ -1,0 +1,11 @@
+extends layout
+
+block vars
+	- let title = message
+
+block content
+	div.am-g.error
+		div.stack
+			h1= message
+			h2= status
+			pre #{stack}
