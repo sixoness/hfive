@@ -1,2 +1,5 @@
 @import "home.css";
 @import "responsive.css";
+#logo {
+  width: 168px;
+}

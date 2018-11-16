@@ -599,14 +599,14 @@ a:hover {
     width: 32px;
     height: 32px;
     margin-left: 8px;
-    background: url("///public/images/home/sharp.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/sharp.png*/
+    background: url("///house-five/images/home/sharp.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/sharp.png*/
     ) no-repeat scroll 0px -37px;
     float: left;
     position: relative;
 }
 
 .sharpBox a em {
-    background: url("///public/images/home/sharp.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/sharp.png*/
+    background: url("///house-five/images/home/sharp.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/sharp.png*/
     ) no-repeat scroll -48px -38px;
     display: block;
     width: 100%;
@@ -645,7 +645,7 @@ a:hover {
 }
 
 .pbanner {
-    background: url("/public/images/home/nybanner.jpg") repeat-x scroll center bottom;
+    background: url("/house-five/images/home/nybanner.jpg") repeat-x scroll center bottom;
     width: 100%;
     padding: 160px 0px 142px;
     position: relative;
@@ -704,7 +704,7 @@ a:hover {
 }
 
 .pagebot {
-    background: url("///public/images/home/bot.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/bot.png*/
+    background: url("///house-five/images/home/bot.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/bot.png*/
     ) no-repeat;
     width: 52px;
     height: 21px;
@@ -841,7 +841,7 @@ a:hover {
     width: 52px;
     height: 52px;
     display: block;
-    background-image: url("/public/images/home/slider.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/slider.png*/
+    background-image: url("/house-five/images/home/slider.png"
     );
     background-repeat: no-repeat;
     background-color: #666;
@@ -918,7 +918,7 @@ a:hover {
 }
 
 .qqBtn span {
-    background: url("/public/images/home/qq1.png"
+    background: url("/house-five/images/home/qq1.png"
     ) no-repeat scroll left center;
     padding-left: 24px;
 }
@@ -928,7 +928,7 @@ a:hover {
 }
 
 .qqBtn:hover span {
-    background-image: url("/public/images/home/qq2.png");
+    background-image: url("/house-five/images/home/qq2.png");
 }
 
 .weixinCon {
@@ -996,7 +996,7 @@ a:hover {
 }
 
 .switchdock {
-    background: url("/public/images/home/slider.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/slider.png*/
+    background: url("/house-five/images/home/slider.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/slider.png*/
     ) no-repeat scroll center -268px;
     width: 28px;
     height: 29px;
@@ -1012,7 +1012,7 @@ a:hover {
 }
 
 .switchdock.active {
-    background: url("/public/images/home/switchdock.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/switchdock.png*/
+    background: url("/house-five/images/home/switchdock.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/switchdock.png*/
     ) no-repeat;
 }
 
@@ -1045,7 +1045,7 @@ a:hover {
 
 .bx-wrapper .bx-loading {
     min-height: 50px;
-    background: url("/public/images/home/bx_loader.gif") center center no-repeat #fff;
+    background: url("/house-five/images/home/bx_loader.gif") center center no-repeat #fff;
     height: 100%;
     width: 100%;
     position: absolute;
@@ -1127,7 +1127,7 @@ a:hover {
     width: 10px;
     height: 11px;
     outline: 0;
-    background: url("/public/images/home/controls.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/controls.png*/
+    background: url("/house-five/images/home/controls.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/controls.png*/
     ) -86px -11px no-repeat;
     margin: 0 3px;
 }
@@ -1143,7 +1143,7 @@ a:hover {
     width: 9px;
     height: 11px;
     outline: 0;
-    background: url("/public/images/home/controls.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/controls.png*/
+    background: url("/house-five/images/home/controls.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/controls.png*/
     ) -86px -44px no-repeat;
     margin: 0 3px;
 }
@@ -1214,7 +1214,7 @@ a:hover {
 }
 
 .slick-loading .slick-list {
-    background: #00865e url("/public/images/home/loader.gif") center center no-repeat;
+    background: #00865e url("/house-five/images/home/loader.gif") center center no-repeat;
 }
 
 .slick-list.dragging {
@@ -1357,7 +1357,7 @@ a:hover {
     height: 49px;
     overflow: hidden;
     border-radius: 50%;
-    background: url("/public/images/home/roll.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/roll.png*/
+    background: url("/house-five/images/home/roll.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/roll.png*/
     ) no-repeat;
     background: none rgba(255, 255, 255, 1);
 }
@@ -1370,7 +1370,7 @@ a:hover {
     transform: scale(1);
     -webkit-transform: scale(1);
     -o-transform: scale(1);
-    background: url("/public/images/home/roll_ico.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/roll_ico.png*/
+    background: url("/house-five/images/home/roll_ico.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/roll_ico.png*/
     ) no-repeat scroll center center;
     width: 49px;
     height: 49px;
@@ -1564,7 +1564,7 @@ a:hover {
 }
 
 .binbox .en {
-    background: url("/public/images/home/banner_ico.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/banner_ico.png*/
+    background: url("/house-five/images/home/banner_ico.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/banner_ico.png*/
     ) no-repeat scroll left center;
     padding-left: 118px;
     color: #666666;
@@ -1693,7 +1693,7 @@ a:hover {
 }
 
 .bannerBot {
-    background: url("/public/images/home/banner_bot.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/banner_bot.png*/
+    background: url("/house-five/images/home/banner_bot.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/banner_bot.png*/
     ) no-repeat scroll center bottom;
     background-size: cover;
     width: 100%;
@@ -1721,7 +1721,7 @@ a:hover {
 }
 
 .bbg {
-    background: url("/public/images/home/ipage2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/ipage2.png*/
+    background: url("/house-five/images/home/ipage2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/ipage2.png*/
     ) no-repeat scroll center top;
     height: 68px;
     position: absolute;
@@ -1842,7 +1842,7 @@ a:hover {
 }
 
 #ipage2 .bg {
-    background: url("/public/images/home/ipage2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/ipage2.png*/
+    background: url("/house-five/images/home/ipage2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/ipage2.png*/
     ) no-repeat scroll center -68px #424242;
     height: 233px;
     position: absolute;
@@ -1893,12 +1893,12 @@ a:hover {
 }
 
 .iAboutList .y1 {
-    background: url("/public/images/home/y1.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/y1.png*/
+    background: url("/house-five/images/home/y1.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/y1.png*/
     ) no-repeat;
 }
 
 .iAboutList .y2 {
-    background: url("/public/images/home/y2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/y2.png*/
+    background: url("/house-five/images/home/y2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/y2.png*/
     ) no-repeat;
 }
 
@@ -1928,7 +1928,7 @@ a:hover {
     left: 50%;
     top: 50%;
     margin: -25px 0px 0px -25px;
-    background: url("/public/images/home/ico.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/ico.png*/
+    background: url("/house-five/images/home/ico.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/ico.png*/
     ) no-repeat;
     z-index: 3;
     -webkit-transition: 0.4s ease 0.2s;
@@ -2049,7 +2049,7 @@ a:hover {
 }
 
 .ipage2-pic {
-    background: url("/public/images/home/ipage3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/ipage3.png*/
+    background: url("/house-five/images/home/ipage3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/ipage3.png*/
     ) repeat-x scroll left top;
     width: 100%;
     position: absolute;
@@ -2130,7 +2130,7 @@ a:hover {
 }
 
 .ipage3-pic {
-    background: url("/public/images/home/ipage3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/ipage3.png*/
+    background: url("/house-five/images/home/ipage3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/ipage3.png*/
     ) repeat-x scroll left -100px;
     width: 100%;
     position: absolute;
@@ -2172,30 +2172,30 @@ a:hover {
 }
 
 .picdemo .slick-prev {
-    background: url("/public/images/home/btn_i1.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_i1.png*/
+    background: url("/house-five/images/home/btn_i1.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_i1.png*/
     ) no-repeat scroll right center;
     left: 2%;
 }
 
 .picdemo .slick-next {
-    background: url("/public/images/home/btn_i2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_i2.png*/
+    background: url("/house-five/images/home/btn_i2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_i2.png*/
     ) no-repeat scroll left center;
     right: 2%;
 }
 
 .picdemo .slick-prev i {
-    background: url("/public/images/home/btn_1.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_1.png*/
+    background: url("/house-five/images/home/btn_1.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_1.png*/
     ) no-repeat scroll left center;
 }
 
 .picdemo .slick-next i {
-    background: url("/public/images/home/btn_2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_2.png*/
+    background: url("/house-five/images/home/btn_2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_2.png*/
     ) no-repeat scroll right center;
 }
 
 .productIbox {
     margin-top: 56px;
-    background: url("/public/images/home/line.jpg"/*tpa=http://host14.lisiqi.com.cn/template/home/images/line.jpg*/
+    background: url("/house-five/images/home/line.jpg"/*tpa=http://host14.lisiqi.com.cn/template/home/images/line.jpg*/
     ) no-repeat;
 }
 
@@ -2223,7 +2223,7 @@ a:hover {
 }
 
 .ixproList .cover {
-    background: url("/public/images/home/black.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/black.png*/
+    background: url("/house-five/images/home/black.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/black.png*/
     );
     background: rgba(0, 0, 0, .4);
     opacity: 0;
@@ -2339,12 +2339,12 @@ a:hover {
 }
 
 .ix-pro-prev .ico {
-    background-image: url("/public/images/home/rr-ixproprev.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/rr-ixproprev.png*/
+    background-image: url("/house-five/images/home/rr-ixproprev.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/rr-ixproprev.png*/
     );
 }
 
 .ix-pro-next .ico {
-    background-image: url("/public/images/home/rr-ixpronext.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/rr-ixpronext.png*/
+    background-image: url("/house-five/images/home/rr-ixpronext.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/rr-ixpronext.png*/
     );
 }
 
@@ -2437,7 +2437,7 @@ a:hover {
 }
 
 #ipage5 {
-    background: url("/public/images/home/bg5.jpg"/*tpa=http://host14.lisiqi.com.cn/template/home/images/bg5.jpg*/
+    background: url("/house-five/images/home/bg5.jpg"/*tpa=http://host14.lisiqi.com.cn/template/home/images/bg5.jpg*/
     ) no-repeat scroll center center;
     background-size: cover;
 }
@@ -2493,12 +2493,12 @@ a:hover {
 }
 
 .idownList .f1 {
-    background: url("/public/images/home/f1.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/f1.png*/
+    background: url("/house-five/images/home/f1.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/f1.png*/
     ) no-repeat;
 }
 
 .idownList .f2 {
-    background: url("/public/images/home/f2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/f2.png*/
+    background: url("/house-five/images/home/f2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/f2.png*/
     ) no-repeat;
 }
 
@@ -2537,7 +2537,7 @@ a:hover {
     height: 50px;
     display: block;
     margin: 0px auto;
-    background: url("/public/images/home/ico2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/ico2.png*/
+    background: url("/house-five/images/home/ico2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/ico2.png*/
     ) no-repeat;
     z-index: 3;
     -webkit-transition: 0.4s ease 0.2s;
@@ -2561,7 +2561,7 @@ a:hover {
 
 .idownList .btn {
     display: block;
-    background: url("/public/images/home/more.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/more.png*/
+    background: url("/house-five/images/home/more.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/more.png*/
     ) no-repeat;
     width: 28px;
     height: 28px;
@@ -2617,7 +2617,7 @@ a:hover {
 }
 
 .idownList .slick-arrow i {
-    background: url("/public/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
+    background: url("/house-five/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
     ) no-repeat scroll center center;
     width: 100%;
     height: 100%;
@@ -2636,12 +2636,12 @@ a:hover {
 }
 
 .idownList .slick-prev i {
-    background-image: url("/public/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
+    background-image: url("/house-five/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
     );
 }
 
 .idownList .slick-next i {
-    background-image: url("/public/images/home/btn_4.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_4.png*/
+    background-image: url("/house-five/images/home/btn_4.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_4.png*/
     );
 }
 
@@ -2667,7 +2667,7 @@ a:hover {
     top: 0px;
     width: 100%;
     height: 100%;
-    background: url("/public/images/home/bg6.jpg"/*tpa=http://host14.lisiqi.com.cn/template/home/images/bg6.jpg*/
+    background: url("/house-five/images/home/bg6.jpg"/*tpa=http://host14.lisiqi.com.cn/template/home/images/bg6.jpg*/
     ) no-repeat scroll center center #383838;
     background-size: cover;
 }
@@ -2822,7 +2822,7 @@ a:hover {
     top: 0px;
     width: 100%;
     height: 100%;
-    background: url("/public/images/home/bg7.jpg"/*tpa=http://host14.lisiqi.com.cn/template/home/images/bg7.jpg*/
+    background: url("/house-five/images/home/bg7.jpg"/*tpa=http://host14.lisiqi.com.cn/template/home/images/bg7.jpg*/
     ) no-repeat scroll center center #eaeaea;
     background-size: cover;
 }
@@ -3016,7 +3016,7 @@ a:hover {
 }
 
 .messageBtn .ico {
-    background: url("/public/images/home/more2.png"
+    background: url("/house-five/images/home/more2.png"
     ) no-repeat;
     width: 24px;
     height: 16px;
@@ -3120,7 +3120,7 @@ a:hover {
     height: 50px;
     float: left;
     display: block;
-    background: url("//public/images/home/ico2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/ico2.png*/
+    background: url("//house-five/images/home/ico2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/ico2.png*/
     ) no-repeat;
     position: absolute;
     left: 9px;
@@ -3152,7 +3152,7 @@ a:hover {
 }
 
 .downList .c .i2 {
-    background: url("//public/images/home/down.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/down.png*/
+    background: url("//house-five/images/home/down.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/down.png*/
     ) no-repeat;
     padding: 0px 0px 0px 50px;
     overflow: hidden;
@@ -3236,7 +3236,7 @@ select.selbox1 {
     cursor: pointer;
     display: block;
     font-size: 14px;
-    background: url("/public/images/home/sico.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/sico.png*/
+    background: url("/house-five/images/home/sico.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/sico.png*/
     ) no-repeat scroll 90% center;
     float: left;
     display: block;
@@ -3397,7 +3397,7 @@ select.selbox1:hover {
 }
 
 .newItem .more {
-    background: url("/public/images/home/more3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/more3.png*/
+    background: url("/house-five/images/home/more3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/more3.png*/
     ) no-repeat;
     width: 26px;
     height: 26px;
@@ -3413,7 +3413,7 @@ select.selbox1:hover {
 }
 
 .newItem:hover .more {
-    background-image: url("/public/images/home/more4.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/more4.png*/
+    background-image: url("/house-five/images/home/more4.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/more4.png*/
     );
 }
 
@@ -3528,7 +3528,7 @@ select.selbox1:hover {
 }
 
 .infoBox .list {
-    background: url("/public/images/home/list1.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/list1.png*/
+    background: url("/house-five/images/home/list1.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/list1.png*/
     ) no-repeat scroll center center #999999;
     padding-left: 68px;
     height: 59px;
@@ -3540,7 +3540,7 @@ select.selbox1:hover {
 }
 
 .infoBox .pprev {
-    background: url("/public/images/home/prev11.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/prev11.png*/
+    background: url("/house-five/images/home/prev11.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/prev11.png*/
     ) no-repeat scroll 8% center;
     padding-left: 37px;
     float: left;
@@ -3549,7 +3549,7 @@ select.selbox1:hover {
 }
 
 .infoBox .pnext {
-    background: url("/public/images/home/next11.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/next11.png*/
+    background: url("/house-five/images/home/next11.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/next11.png*/
     ) no-repeat scroll 92% center;
     padding-right: 37px;
     float: right;
@@ -3705,7 +3705,7 @@ select.selbox1:hover {
 }
 
 .messagePage .black {
-    background: url("/public/images/home/black2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/black2.png*/
+    background: url("/house-five/images/home/black2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/black2.png*/
     ) repeat;
     position: absolute;
     left: 0px;
@@ -4089,7 +4089,7 @@ select.selbox1:hover {
 .backList .ico {
     width: 25px;
     height: 25px;
-    background-image: url("/public/images/home/rr-backList.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/rr-backList.png*/
+    background-image: url("/house-five/images/home/rr-backList.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/rr-backList.png*/
     );
     margin-right: 10px;
 }
@@ -4151,13 +4151,13 @@ select.selbox1:hover {
 
 .pdpics .slick-next {
     right: 0;
-    background: #b2b2b2 url("/public/images/home/rr-pdnext.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/rr-pdnext.png*/
+    background: #b2b2b2 url("/house-five/images/home/rr-pdnext.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/rr-pdnext.png*/
     ) no-repeat center center;
 }
 
 .pdpics .slick-prev {
     left: 0;
-    background: #b2b2b2 url("/public/images/home/rr-pdprev.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/rr-pdprev.png*/
+    background: #b2b2b2 url("/house-five/images/home/rr-pdprev.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/rr-pdprev.png*/
     ) no-repeat center center;
 }
 
@@ -4226,7 +4226,7 @@ select.selbox1:hover {
     width: 20px;
     height: 26px;
     display: block;
-    background: url("/public/images/home/rr-pdShare.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/rr-pdShare.png*/
+    background: url("/house-five/images/home/rr-pdShare.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/rr-pdShare.png*/
     ) no-repeat center center;
 }
 
@@ -4361,7 +4361,7 @@ select.selbox1:hover {
 }
 
 .productDL .con .bot a {
-    background: url("/public/images/home/sj.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/sj.png*/
+    background: url("/house-five/images/home/sj.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/sj.png*/
     ) no-repeat scroll left 8px;
     padding-left: 18px;
     margin-right: 10%;
@@ -4428,7 +4428,7 @@ select.selbox1:hover {
 }
 
 .productNav a span {
-    background: url("/public/images/home/sj3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/sj3.png*/
+    background: url("/house-five/images/home/sj3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/sj3.png*/
     ) no-repeat scroll left center;
     padding-left: 16px;
     font-size: 14px;
@@ -4443,7 +4443,7 @@ select.selbox1:hover {
 
 .productNav a:hover span,
 .productNav a.act span {
-    background-image: url("/public/images/home/sj2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/sj2.png*/
+    background-image: url("/house-five/images/home/sj2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/sj2.png*/
     );
 }
 
@@ -4578,7 +4578,7 @@ select.selbox1:hover {
 }
 
 .productList .ico {
-    background: url("/public/images/home/addico.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/addico.png*/
+    background: url("/house-five/images/home/addico.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/addico.png*/
     ) no-repeat;
     width: 42px;
     height: 42px;
@@ -4734,7 +4734,7 @@ select.selbox1:hover {
 }
 
 .productImg .slick-arrow i {
-    background: url("/public/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
+    background: url("/house-five/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
     ) no-repeat scroll center center;
     width: 100%;
     height: 100%;
@@ -4753,12 +4753,12 @@ select.selbox1:hover {
 }
 
 .productImg .slick-prev i {
-    background-image: url("/public/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
+    background-image: url("/house-five/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
     );
 }
 
 .productImg .slick-next i {
-    background-image: url("/public/images/home/btn_4.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_4.png*/
+    background-image: url("/house-five/images/home/btn_4.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_4.png*/
     );
 }
 
@@ -4813,7 +4813,7 @@ select.selbox1:hover {
     height: 50px;
     margin: 0px auto 25px;
     display: block;
-    background: url("/public/images/home/ico.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/ico.png*/
+    background: url("/house-five/images/home/ico.png"
     ) no-repeat;
 }
 
@@ -4926,7 +4926,7 @@ select.selbox1:hover {
 }
 
 .qualificationTab .slick-arrow i {
-    background: url("/public/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
+    background: url("/house-five/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
     ) no-repeat scroll center center;
     width: 100%;
     height: 100%;
@@ -4945,12 +4945,12 @@ select.selbox1:hover {
 }
 
 .qualificationTab .slick-prev i {
-    background-image: url("/public/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
+    background-image: url("/house-five/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
     );
 }
 
 .qualificationTab .slick-next i {
-    background-image: url("/public/images/home/btn_4.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_4.png*/
+    background-image: url("/house-five/images/home/btn_4.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_4.png*/
     );
 }
 
@@ -5055,7 +5055,7 @@ select.selbox1:hover {
 }
 
 .imgShowBox {
-    background: url("/public/images/home/black2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/black2.png*/
+    background: url("/house-five/images/home/black2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/black2.png*/
     ) repeat;
     background: none rgba(0, 0, 0, 0.8);
     bottom: 0;
@@ -5106,7 +5106,7 @@ select.selbox1:hover {
 }
 
 .imgShowDemo .txt {
-    background: url("/public/images/home/black.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/black.png*/
+    background: url("/house-five/images/home/black.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/black.png*/
     ) repeat;
     background: none rgba(0, 0, 0, 0.5);
     font-size: 14px;
@@ -5159,13 +5159,13 @@ select.selbox1:hover {
 }
 
 .imgShowDemo .slick-prev {
-    background: url("/public/images/home/img_btn2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/img_btn2.png*/
+    background: url("/house-five/images/home/img_btn2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/img_btn2.png*/
     ) no-repeat scroll left top;
     left: 2%;
 }
 
 .imgShowDemo .slick-next {
-    background: url("/public/images/home/img_btn2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/img_btn2.png*/
+    background: url("/house-five/images/home/img_btn2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/img_btn2.png*/
     ) no-repeat scroll right top;
     right: 2%;
 }
@@ -5191,7 +5191,7 @@ select.selbox1:hover {
 }
 
 .overlayClose i {
-    background: url("/public/images/home/close2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/close2.png*/
+    background: url("/house-five/images/home/close2.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/close2.png*/
     ) no-repeat scroll center center;
     width: 100%;
     height: 100%;
@@ -5252,7 +5252,7 @@ select.selbox1:hover {
 }
 
 .honorDemo .slick-arrow i {
-    background: url("/public/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
+    background: url("/house-five/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
     ) no-repeat scroll center center;
     width: 100%;
     height: 100%;
@@ -5271,12 +5271,12 @@ select.selbox1:hover {
 }
 
 .honorDemo .slick-prev i {
-    background-image: url("/public/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
+    background-image: url("/house-five/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
     );
 }
 
 .honorDemo .slick-next i {
-    background-image: url("/public/images/home/btn_4.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_4.png*/
+    background-image: url("/house-five/images/home/btn_4.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_4.png*/
     );
 }
 
@@ -5370,7 +5370,7 @@ select.selbox1:hover {
     height: 100%;
     opacity: 0;
     visibility: hidden;
-    background: url("/public/images/home/black.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/black.png*/
+    background: url("/house-five/images/home/black.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/black.png*/
     ) repeat;
 }
 
@@ -5454,7 +5454,7 @@ select.selbox1:hover {
 }
 
 .teamDemo .slick-arrow i {
-    background: url("/public/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
+    background: url("/house-five/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
     ) no-repeat scroll center center;
     width: 100%;
     height: 100%;
@@ -5473,12 +5473,12 @@ select.selbox1:hover {
 }
 
 .teamDemo .slick-prev i {
-    background-image: url("/public/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
+    background-image: url("/house-five/images/home/btn_3.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_3.png*/
     );
 }
 
 .teamDemo .slick-next i {
-    background-image: url("/public/images/home/btn_4.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_4.png*/
+    background-image: url("/house-five/images/home/btn_4.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/btn_4.png*/
     );
 }
 
@@ -5568,7 +5568,7 @@ select.selbox1:hover {
 /*微信弹出*/
 
 .popUpblack {
-    background: url("/public/images/home/black_bg4.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/black_bg4.png*/
+    background: url("/house-five/images/home/black_bg4.png"/*tpa=http://host14.lisiqi.com.cn/template/home/images/black_bg4.png*/
     ) repeat;
     width: 100%;
     height: 100%;
@@ -5661,7 +5661,7 @@ select.selbox1:hover {
 
 .productIbox {
     margin-top: 56px;
-    background: url("/public/images/home/line.jpg"/*tpa=http://host14.lisiqi.com.cn/template/home/images/line.jpg*/
+    background: url("/house-five/images/home/line.jpg"/*tpa=http://host14.lisiqi.com.cn/template/home/images/line.jpg*/
     ) no-repeat;
 }
 
@@ -5682,7 +5682,7 @@ select.selbox1:hover {
 }
 
 .productIbox .itemCon {
-    background: url("/public/images/home/line.jpg"/*tpa=http://host14.lisiqi.com.cn/template/home/images/line.jpg*/
+    background: url("/house-five/images/home/line.jpg"/*tpa=http://host14.lisiqi.com.cn/template/home/images/line.jpg*/
     ) repeat-x;
     display: block;
 }

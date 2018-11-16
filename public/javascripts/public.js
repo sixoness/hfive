@@ -1,14 +1,14 @@
-inCludeScript('../public/javascripts/jquery.min.js')
+inCludeScript('../house-five/javascripts/jquery.min.js')
 
 
 
 
-inCludeScript('../public/javascripts/plugin.js')
-inCludeScript('../public/javascripts/page.js')
-inCludeScript('../public/javascripts/jquery.nicescroll.min.js')
-inCludeScript('../public/javascripts/index.js')
-inCludeScript('../public/javascripts/about.js')
-inCludeScript('../public/javascripts/product.js')
+inCludeScript('../house-five/javascripts/plugin.js')
+inCludeScript('../house-five/javascripts/page.js')
+inCludeScript('../house-five/javascripts/jquery.nicescroll.min.js')
+inCludeScript('../house-five/javascripts/index.js')
+inCludeScript('../house-five/javascripts/about.js')
+inCludeScript('../house-five/javascripts/product.js')
 
 
 
